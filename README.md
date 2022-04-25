@@ -1,0 +1,29 @@
+# STORES 開発パートナー向けドキュメント
+STORES パートナープラットフォームの開発パートナー向けドキュメントです。
+このドキュメントでは、特定のオーナーさま・開発パートナーさま向けにクローズドで提供している外部公開 API や API を利用したパートナーアプリについての情報を記載しています。
+
+
+## 対象プロダクト
+このドキュメントで対象とするプロダクトは以下となり、今後順次 STORES プロダクトが追加される予定です。
+
+- [ネットショップ開設「STORES」](https://stores.jp/ec)
+  - [API ドキュメント](https://github.com/heyinc/retail-api-docs)
+- [POSレジ「STORES レジ」](https://stores.jp/regi)
+  - [API ドキュメント](https://github.com/heyinc/retail-api-docs)
+
+## 認証・認可方式
+- [OAuthによる認可](auth.md)
+- [クレデンシャル認証](auth.md)
+
+## 開発パートナー
+- [開発パートナーとは](development-partner.md)
+- [開発パートナーの登録](development-partner-signup.md)
+
+## パートナーアプリ
+- [パートナーアプリとは](partner-app.md)
+- [パートナーアプリを作る](partner-app-register.md)
+- WIP [パートナーアプリを公開する](partner-app-review.md)
+
+## その他
+- WIP [テストデータを作成する](test-data.md)
+- WIP [FAQ](faq.md)
