@@ -118,9 +118,8 @@ https://api.id.stores.jp/oauth2/token
 {
   "access_token": "DXzQzbwWh7amWhMWdcK1_b_JioNulRyDlGWTvQIBK7s.fZvUA8ju4aoRsyYvfKi1c3GcKAwEjc2zBlRpy6NnqP0",
   "expires_in": 3600,
-  "id_token": "eyJ...",
   "refresh_token": "qve0a_9YRxweyC3v_5-JtFt-Ak6-KUH2FB9t1UWeQng.8-Akk15jgYPC7db7BZnNxJjNlE8TsT0Ik5OcfIxvtWE",
-  "scope": "openid email offline_access",
+  "scope": "retail.shop.read offline_access",
   "token_type": "bearer"
 }
 ```
