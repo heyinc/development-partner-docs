@@ -57,6 +57,9 @@ https://api.id.stores.jp/oauth2/auth?client_id={client_id}&redirect_uri={redirec
 | scope      | ユーザーが認可した scope                                 |
 | state      | 認可エンドポイント遷移時にアプリから受け取った検証用の値 |
 
+リダイレクト先では必ず state の値の有効性を検証し、[CSRF 攻撃への対策](http://openid-foundation-japan.github.io/rfc6749.ja.html#CSRF)を行ってください。
+例えば、認可エンドポイントに付与した state 値をセッションに紐付けておき、リダイレクト時の state 値との一致を確認します。
+
 ### トークンエンドポイント `POST /oauth2/token`
 
 認可コードやリフレッシュトークンと、アクセストークンを交換します。
