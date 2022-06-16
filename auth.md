@@ -44,7 +44,7 @@ STORES ID の認可フローを開始し、認可コードを取得します。
 以上のクエリパラメータ付きの URL は次のようになります。
 
 ```
-https://api.id.stores.jp/oauth2/auth?client_id={client_id}&redirect_uri={redirect_uri}&response_type=code&scope={scope}&state={state}&nonce={nonce}
+https://api.id.stores.jp/oauth2/auth?client_id={client_id}&redirect_uri={redirect_uri}&response_type=code&scope={scope}&state={state}
 ```
 
 このエンドポイントへのアクセス時、ユーザーがログイン済みでない場合はログイン画面を表示します。
