@@ -33,18 +33,19 @@ https://api.id.stores.jp
 
 STORES ID の認可フローを開始し、認可コードを取得します。
 
-| パラメータ    | 概要                                                              |
-| :------------ | :---------------------------------------------------------------- |
-| response_type | `code` を指定                                                     |
-| client_id     | アプリ登録時に取得したクライアント ID                             |
-| redirect_uri  | アプリ登録時に指定したリダイレクト URL                            |
-| scope         | スコープをスペース区切りで指定。有効なスコープの一覧は後述        |
-| state         | CSRF 対策として検証用の値。アプリへのリダイレクト時にそのまま付与 |
+| パラメータ    | 概要                                                                     |
+| :------------ | :----------------------------------------------------------------------- |
+| response_type | `code` を指定                                                            |
+| client_id     | アプリ登録時に取得したクライアント ID                                    |
+| redirect_uri  | アプリ登録時に指定したリダイレクト URL                                   |
+| scope         | スコープをスペース区切りで指定。有効なスコープの一覧は後述               |
+| state         | CSRF 対策として検証用の値。アプリへのリダイレクト時にそのまま付与        |
+| prompt        | （省略可能） `login` を指定すると、STORES はユーザーに再認証を要求します |
 
 以上のクエリパラメータ付きの URL は次のようになります。
 
 ```
-https://api.id.stores.jp/oauth2/auth?client_id={client_id}&redirect_uri={redirect_uri}&response_type=code&scope={scope}&state={state}
+https://api.id.stores.jp/oauth2/auth?client_id={client_id}&redirect_uri={redirect_uri}&response_type=code&scope={scope}&state={state}&prompt={prompt}
 ```
 
 このエンドポイントへのアクセス時、ユーザーがログイン済みでない場合はログイン画面を表示します。
