@@ -51,7 +51,7 @@ APIは無料でご利用いただけます。
 [パートナーアプリのテスト方法](https://github.com/heyinc/development-partner-docs/blob/master/partner-app.md#%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88%E6%96%B9%E6%B3%95) をご確認ください。
 
 ## パートナーアプリ開発の詳細について相談したい 
-サポート窓口（development-partner-support@hey.jp）までご相談ください 
+サポート窓口（development-partner-support@st.inc）までご相談ください 
 
 ## 公開パートナーアプリとプライベートパートナーアプリの違いはなんですか？ 
 [パートナーアプリの種類](https://github.com/heyinc/development-partner-docs/blob/master/partner-app.md#%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E7%A8%AE%E9%A1%9E) をご確認ください。
