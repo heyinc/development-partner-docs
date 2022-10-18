@@ -78,12 +78,12 @@
 
 ## 5. 事前審査の結果
 フォームより送信された情報をもとに、サポートチームより連絡をさせていただきます。  
-事前審査フォーム送信後の内容の修正やご不明点につきましては `development-partner-support@hey.jp` までご連絡ください。
+事前審査フォーム送信後の内容の修正やご不明点につきましては `development-partner-support@st.inc` までご連絡ください。
 
 ## 6. パートナーアプリの公開
 事前審査を通過すると、パートナーアプリが STORES　ダッシュボードの[機能を追加ページ](https://stores.jp/dashboard?_gl=1*f7tm8p*_ga*MTg1MTExMTc5Ni4xNjUyNTQyNTc0*_ga_KQK7MFB3SE*MTY1MzMyOTg1NS44LjEuMTY1MzMyOTg1Ni41OQ..#!/addon)に公開され、STORES のオーナーが利用を開始します。  
 利用開始に伴い、オーナーからの問い合わせがある可能性がありますので、問い合わせがあった際はご対応をよろしくお願いいたします。
-また、パートナーアプリのメンテナンスがある場合や、掲載情報の修正などがある場合は、 `development-partner-support@hey.jp` までご連絡ください。
+また、パートナーアプリのメンテナンスがある場合や、掲載情報の修正などがある場合は、 `development-partner-support@st.inc` までご連絡ください。
 
 
 
