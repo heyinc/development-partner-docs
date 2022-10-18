@@ -1,6 +1,6 @@
 # 開発パートナーの登録
 開発パートナーの登録は、以下の流れで完了します。  
-なお、取得する個人情報は[開発パートナー規約](https://partner.platform.stores.jp/dev/terms)に準拠して利用されます。
+なお、取得する個人情報は[開発パートナー規約](https://github.com/heyinc/development-partner-docs/blob/master/terms.md)に準拠して利用されます。
 
 1. [開発パートナー登録フォーム](https://forms.gle/SM16fYxW6C7AXdqa6)に必要情報を入力して送信します
 1. 登録したメールアドレスに本人確認メールが送信されます
