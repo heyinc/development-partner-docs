@@ -25,7 +25,7 @@
 ### 開始前のチェック
 - [ ] 開発した公開アプリがテストアカウントで正常に動作することを確認した
 - [ ] [事前審査項目](#事前審査項目)を確認した
-- [ ] [開発パートナー規約](https://partner.platform.stores.jp/dev/terms)を確認した
+- [ ] [開発パートナー規約](https://github.com/heyinc/development-partner-docs/blob/master/terms.md)を確認した
 
 
 ### 事前審査項目
