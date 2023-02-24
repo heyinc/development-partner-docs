@@ -95,7 +95,7 @@
 ＜表示例＞
 
 <img src="https://user-images.githubusercontent.com/91725290/203235607-2d6c0f88-37d0-4ab5-a336-e87c7344131a.png" width="50%">
-<img src="https://user-images.githubusercontent.com/91725290/203235680-18531af1-c388-4ae5-b1c3-5653d8803578.png" width="25%">)
+<img src="https://user-images.githubusercontent.com/91725290/203235680-18531af1-c388-4ae5-b1c3-5653d8803578.png" width="25%">
   
 ## 7. パートナーアプリの公開
 公開用の素材を提供いただいた後、STORESにより、パートナーアプリが STORES を利用するオーナー向けの管理画面上に公開され、STORES のオーナーが利用を開始します。  
