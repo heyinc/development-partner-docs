@@ -33,7 +33,6 @@ STORES ID の認可フローを開始し、認可コードを取得します。
 | nonce         | リプレイ攻撃防止のための検証用の値。ID トークン取得時にそのままパラメータとして返します。ID トークンを得た場合は必ず ID トークンに含まれる nonce の値の有効性を検証し、 [リプレイ攻撃への対策](http://openid-foundation-japan.github.io/openid-connect-core-1_0.ja.html#IDTokenValidation)を行ってください。           |
 | prompt        | （省略可能） `login` を指定すると、STORES ID はユーザーに再認証を要求します                     |
 
-
 以上のクエリパラメータ付きの URL は次のようになります。
 
 ```
