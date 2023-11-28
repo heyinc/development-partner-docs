@@ -30,13 +30,12 @@ STORES ID の認可フローを開始し、認可コードを取得します。
 | redirect_uri  | アプリ登録時に指定したリダイレクト URL                                                          |
 | scope         | スコープをスペース区切りで指定。有効な値の一覧は項目「[スコープ](#スコープ)」を参照してください |
 | state         | CSRF 対策として検証用の値。アプリへのリダイレクト時にそのままパラメータとして返します           |
-| nonce         | リプレイ攻撃防止のための検証用の値。ID トークン取得時にそのままパラメータとして返します。ID トークンを得た場合は必ず ID トークンに含まれる nonce の値の有効性を検証し、 [リプレイ攻撃への対策](http://openid-foundation-japan.github.io/openid-connect-core-1_0.ja.html#IDTokenValidation)を行ってください。           |
 | prompt        | （省略可能） `login` を指定すると、STORES ID はユーザーに再認証を要求します                     |
 
 以上のクエリパラメータ付きの URL は次のようになります。
 
 ```
-https://api.id.stores.jp/oauth2/auth?client_id={client_id}&redirect_uri={redirect_uri}&response_type=code&scope={scope}&state={state}&nonce={nonce}&prompt={prompt}
+https://api.id.stores.jp/oauth2/auth?client_id={client_id}&redirect_uri={redirect_uri}&response_type=code&scope={scope}&state={state}&prompt={prompt}
 ```
 
 このエンドポイントへのアクセス時、ユーザーがログイン済みでない場合はログイン画面を表示します。
