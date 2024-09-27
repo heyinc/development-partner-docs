@@ -15,6 +15,7 @@ STORES パートナープラットフォームの開発パートナー向けド�
 - [概要](auth.md)
 - [OAuth 2.0](auth-oauth.md)
 - [クレデンシャル認証](auth-credential.md)
+- [STORES アカウントで認可できる事業者数の変更について](authorization.md)
 
 ## 開発パートナー
 - [開発パートナーとは](development-partner.md)
